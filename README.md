@@ -1,4 +1,3 @@
-# Mercurial-V2-Grabber
 ## Builder Preview
 ![preview](https://user-images.githubusercontent.com/75003671/120157017-26796300-c225-11eb-8f84-7428165ca672.gif)
 
@@ -51,5 +50,3 @@ Tips to check if an exe file is safe:
 ### Educational Purposes Only
 This tool demonstrates and makes it easy to create your own grabber. This shows what type of information attackers can grab from a victim's computer. 
 Only use this on your own PC and do not use it on other people maliciously. 
-
-**Cya added some new Features ))** 
